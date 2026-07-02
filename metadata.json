@@ -1,0 +1,6 @@
+{
+  "name": "Luqman Khuhro Landscaping",
+  "description": "Premium landscape design, artificial grass, and irrigation system installation homepage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
